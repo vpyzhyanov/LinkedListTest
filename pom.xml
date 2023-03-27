@@ -9,7 +9,8 @@
     <version>1.0-SNAPSHOT</version>
 
     <name>LinkedListTest</name>
-    <description></description>
+    <description>Тестирование скорости итерирования по HashMap и LinkedHashMap.
+        Кто из них быстрее?</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
